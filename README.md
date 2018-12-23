@@ -11,4 +11,4 @@ For playing a video or audio you add/rename a file as video.mp4 & audio.mp3 OR y
 
 
 ## Demo: 
-demo will  a available here http://webdesign-flash.ro/p/evp & for audio http://webdesign-flash.ro/p/evp/audio.html
+Demo will be available [here](https://sharan-aithal.github.io/FWD-EasyVideoPlayer/index.html)
